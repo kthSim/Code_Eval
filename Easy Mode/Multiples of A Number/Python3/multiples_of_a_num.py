@@ -11,6 +11,10 @@ while para1 > smallest_multi:
 
 print(smallest_multi)
 
+"""
+TESTING GITHUB COMPARISION CHART
+"""
+
 """Sample code to read in test cases:
 import sys
 
